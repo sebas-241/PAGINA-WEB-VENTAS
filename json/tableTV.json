@@ -1,0 +1,11 @@
+var especificaciones = [
+    {
+        'id' : '1',
+        'marca': 'KALLEY',
+        'modelo': 'K-LED32HDRST2',
+        'pulgadas': '32', 
+        'tipo': 'LED',
+        'smarttv': 'SI',
+        'funcional': 'SOLAMENTE LEDS Y TARJETA EN BUEN ESTADO'
+    }
+]
