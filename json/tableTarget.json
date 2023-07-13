@@ -1,0 +1,47 @@
+var datos = [
+    {
+        'id' : '1',
+        'marca': 'LG',
+        'modelo': '42LA6130',
+        'tipoT': 'MAIN BOARD',
+        'funcional': 'EN PERFECTO FUNCIONAMIENTO',
+        'precio': '$ 200.000'
+    },
+
+    {
+        'id' : '2',
+        'marca': 'SAMSUNG',
+        'modelo': 'LN32D450G1M',
+        'tipoT': 'TARJETA FUENTE Y MAIN',
+        'funcional': 'EN PERFECTO FUNCIONAMIENTO',
+        'precio': '$ 320.000'
+    },
+
+    {
+        'id' : '3',
+        'marca': 'LG',
+        'modelo': '32LD330-MB',
+        'tipoT': 'FUENTE',
+        'funcional': 'SOLO LA FUENTE',
+        'precio': '$ 160.000'
+    },
+
+    {
+        'id' : '4',
+        'marca': 'LG',
+        'modelo': '32LD330-MB',
+        'tipoT': 'MAIN',
+        'funcional': 'SOLO LA MAIN',
+        'precio': '$ 150.000'
+    },
+
+    {
+        'id' : '5',
+        'marca': 'LG',
+        'modelo': 'KLED43FHDSFBT',
+        'tipoT': 'MAIN',
+        'funcional': 'TARJETA MAIN FUENTE RECUPERADA DE TELEVISOR CON PANTALLA ROTA',
+        'precio': '$ 210.000'
+    },
+
+]
