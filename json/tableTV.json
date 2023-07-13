@@ -6,6 +6,63 @@ var especificaciones = [
         'pulgadas': '32', 
         'tipo': 'LED',
         'smarttv': 'SI',
-        'funcional': 'SOLAMENTE LEDS Y TARJETA EN BUEN ESTADO'
-    }
+        'funcional': 'SOLAMENTE LEDS Y TARJETA EN BUEN ESTADO',
+        'precio': '$ 130.000'
+    },
+
+    {
+        'id' : '2',
+        'marca': 'HYUNDAI',
+        'modelo': 'HYLED292E',
+        'pulgadas': '29', 
+        'tipo': 'LCD',
+        'smarttv': 'NO',
+        'funcional': 'SOLAMENTE TARJETA Y LEDS EN BUEN ESTADO Y PANTALLA ROTA',
+        'precio': '$ 170.000'
+    },
+
+    {
+        'id' : '3',
+        'marca': 'SAMSUNG',
+        'modelo': 'S19D300NY',
+        'pulgadas': '18.5', 
+        'tipo': 'MONITOR CORPORATIVO - LED',
+        'smarttv': 'NO',
+        'funcional': 'SI - SOLO PUERTO VGA',
+        'precio': '$ 230.000'
+    },
+
+    {
+        'id' : '4',
+        'marca': 'BENQ',
+        'modelo': '99.L1K72.ASA',
+        'pulgadas': '15', 
+        'tipo': 'MONITOR LCD',
+        'smarttv': 'NO',
+        'funcional': 'SI - SOLO CUENTA CON UNA ENTRADA VGA',
+        'precio': '$ 180.000'
+    },
+
+    {
+        'id' : '5',
+        'marca': 'LG',
+        'modelo': '32LF15R',
+        'pulgadas': '32', 
+        'tipo': 'LCD',
+        'smarttv': 'NO',
+        'funcional': 'SI - Entrada HDMI, AV IN 1, OUT 1, COMPONENTE',
+        'precio': '$ 470.000'
+    },
+
+    {
+        'id' : '6',
+        'marca': 'CAIXUM',
+        'modelo': 'CX24P28',
+        'pulgadas': '24', 
+        'tipo': 'LCD',
+        'smarttv': 'NO',
+        'funcional': 'SI - TDT INCORPORADO',
+        'precio': '$ 400.000'
+    },
+
 ]
