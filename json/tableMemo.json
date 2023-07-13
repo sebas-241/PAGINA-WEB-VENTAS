@@ -1,0 +1,65 @@
+var datos2 = [
+    {
+        'id' : '1',
+        'marca': 'ANEON',
+        'modelo': 'AED660UD00-500C88M',
+        'tipo': 'DDR400 CL3',
+        'almacenamiento': '512 MB',
+        'precio': '$ 20.000'
+    },
+
+    {
+        'id' : '2',
+        'marca': 'SAMSUNG',
+        'modelo': 'M378T2863EHS-CF7',
+        'tipo': 'DDR2 1Rx8 PC2',
+        'almacenamiento': '1 GB',
+        'precio': '$ 25.000'
+    },
+
+    {
+        'id' : '3',
+        'marca': 'TRANSCEND',
+        'modelo': '590325-3857',
+        'tipo': 'DDR 400 DIMM CL3',
+        'almacenamiento': '1 GB',
+        'precio': '$ 20.000'
+    },
+
+    {
+        'id' : '4',
+        'marca': 'TRANSCEND',
+        'modelo': '590325-4285',
+        'tipo': 'DDR 400 CL3',
+        'almacenamiento': '1 GB',
+        'precio': '$ 20.000'
+    },
+
+    {
+        'id' : '5',
+        'marca': 'INTEL PENTIUM',
+        'modelo': 'INTEL PENTIUM 4 506 SL8PL',
+        'tipo': 'PROCESADOR',
+        'almacenamiento': '2.66 GHZ',
+        'precio': '$ 20.000'
+    },
+
+    {
+        'id' : '6',
+        'marca': 'KINGSTON',
+        'modelo': 'KVR1333D3N9/4G',
+        'tipo': 'DDR3',
+        'almacenamiento': '4 GB',
+        'precio': '$ 65.000'
+    },
+
+    {
+        'id' : '7',
+        'marca': 'KINGSTON',
+        'modelo': 'KVR1333D3N9/2G',
+        'tipo': 'DDR3',
+        'almacenamiento': '2 GB',
+        'precio': '$ 45.000'
+    }
+
+]
