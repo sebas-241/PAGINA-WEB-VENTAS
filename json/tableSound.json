@@ -1,0 +1,47 @@
+var datos3 = [
+    {
+        'id' : '1',
+        'marca': 'KENWOOD',
+        'modelo': 'KD 35R.',
+        'tipo': 'TORNAMESA',
+        'observaciones': 'USADO, SIN AGUJA, FUNCIONANDO, SIN ACRILICO',
+        'precio': '$ 240.000'
+    },
+
+    {
+        'id' : '2',
+        'marca': 'SONY',
+        'modelo': 'PSLX56',
+        'tipo': 'TORNAMESA',
+        'observaciones': 'AGUJA USADA, CON ACRILICO, FUNCIONANDO',
+        'precio': '$ 180.000'
+    },
+
+    {
+        'id' : '3',
+        'marca': 'SHURE',
+        'modelo': 'SM58',
+        'tipo': 'MICROFONOS',
+        'observaciones': 'Microfono Share SM58 USADO',
+        'precio': '$ 210.000'
+    },
+
+    {
+        'id' : '4',
+        'marca': 'SINGING-MACHINE',
+        'modelo': 'NULL',
+        'tipo': 'MICROFONOS',
+        'observaciones': ' MICRÓFONOS DINÁMICOS UNIDIRECCIONALES',
+        'precio': '$ 140.000'
+    },
+
+    {
+        'id' : '5',
+        'marca': 'EMPIRE',
+        'modelo': 'BT2000',
+        'tipo': 'MEZCLADOR DE AUDIO',
+        'observaciones': '2 CANALES - PUERTOS BLUETOOTH Y USB - USADO Y EN PERFECTO ESTADO',
+        'precio': '$ 250.000'
+    },
+
+]
