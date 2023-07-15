@@ -1,5 +1,6 @@
-var especificaciones = [
-    {
+callBack([
+   {
+        'titulo': 'KALLEY LED 32 PULGADAS',
         'id' : '1',
         'marca': 'KALLEY',
         'modelo': 'K-LED32HDRST2',
@@ -11,6 +12,7 @@ var especificaciones = [
     },
 
     {
+        'titulo': 'HYUNDAI LCD 29 PULGADAS',
         'id' : '2',
         'marca': 'HYUNDAI',
         'modelo': 'HYLED292E',
@@ -63,6 +65,5 @@ var especificaciones = [
         'smarttv': 'NO',
         'funcional': 'SI - TDT INCORPORADO',
         'precio': '$ 400.000'
-    },
-
-]
+    }
+]);
