@@ -1,6 +1,6 @@
 callBack([
    {
-        'titulo': 'KALLEY LED 32 PULGADAS',
+        'titulo': 'KALLEY - LED',
         'id' : '1',
         'marca': 'KALLEY',
         'modelo': 'K-LED32HDRST2',
@@ -12,7 +12,7 @@ callBack([
     },
 
     {
-        'titulo': 'HYUNDAI LCD 29 PULGADAS',
+        'titulo': 'HYUNDAI - LCD',
         'id' : '2',
         'marca': 'HYUNDAI',
         'modelo': 'HYLED292E',
@@ -24,6 +24,7 @@ callBack([
     },
 
     {
+        'titulo': 'SAMSUNG MONITOR CORPORATIVO - LED',
         'id' : '3',
         'marca': 'SAMSUNG',
         'modelo': 'S19D300NY',
@@ -35,6 +36,7 @@ callBack([
     },
 
     {
+        'titulo': 'BENQ MONITOR - LCD',
         'id' : '4',
         'marca': 'BENQ',
         'modelo': '99.L1K72.ASA',
